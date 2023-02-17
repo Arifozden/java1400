@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eksamen2018/Eksamen2018.iml" filepath="$PROJECT_DIR$/Eksamen2018/Eksamen2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eksamen2019/Eksamen2019.iml" filepath="$PROJECT_DIR$/Eksamen2019/Eksamen2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eksamen2020/Eksamen2020.iml" filepath="$PROJECT_DIR$/Eksamen2020/Eksamen2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eksamen2021Konte/Eksamen2021Konte.iml" filepath="$PROJECT_DIR$/Eksamen2021Konte/Eksamen2021Konte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eksamen2022/Eksamen2022.iml" filepath="$PROJECT_DIR$/Eksamen2022/Eksamen2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KontrolOgeleri/KontrolOgeleri.iml" filepath="$PROJECT_DIR$/KontrolOgeleri/KontrolOgeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obligs/Obligs.iml" filepath="$PROJECT_DIR$/Obligs/Obligs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OveTilEksamenFraArrays/OveTilEksamenFraArrays.iml" filepath="$PROJECT_DIR$/OveTilEksamenFraArrays/OveTilEksamenFraArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OveTilEksamenFraIf/OveTilEksamenFraIf.iml" filepath="$PROJECT_DIR$/OveTilEksamenFraIf/OveTilEksamenFraIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoutubeDeneme/YoutubeDeneme.iml" filepath="$PROJECT_DIR$/YoutubeDeneme/YoutubeDeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home.iml" filepath="$PROJECT_DIR$/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgaveCozum/oppgaveCozum.iml" filepath="$PROJECT_DIR$/oppgaveCozum/oppgaveCozum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgaveKlass2Cozum/oppgaveKlass2Cozum.iml" filepath="$PROJECT_DIR$/oppgaveKlass2Cozum/oppgaveKlass2Cozum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgaveKontrol/oppgaveKontrol.iml" filepath="$PROJECT_DIR$/oppgaveKontrol/oppgaveKontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppgaveKontrol2/oppgaveKontrol2.iml" filepath="$PROJECT_DIR$/oppgaveKontrol2/oppgaveKontrol2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovetileksamen/ovetileksamen.iml" filepath="$PROJECT_DIR$/ovetileksamen/ovetileksamen.iml" />
+    </modules>
+  </component>
+</project>
